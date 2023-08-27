@@ -1,6 +1,7 @@
 [LS-UI-STORE](https://github.com/dobabaophuc1706/LS-UI-Store)
 =============
-**Where you can download Asset.car files to change flash & Camera icons!**
+
+<h3 align="center">Where you can download Asset.car files to change flash & Camera icons!</h3>
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/Avt.png" alt="Avt" width="Avt" height="200"/> 
